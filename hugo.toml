@@ -1,7 +1,7 @@
 # Uncommented options are not recommended for modification
 # 未标注释的选项建议不要修改
 
-baseURL = 'https://conghuynhho.github.io/hugo-blog/'
+baseURL = 'https://hugo-blog-navy.vercel.app/'
 languageCode = 'en-us'
 
 # website title
